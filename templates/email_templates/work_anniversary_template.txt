@@ -1,0 +1,8 @@
+Hello {employee_name}!
+
+Congratulations on your work anniversary at [Company Name]! 🎉
+
+Your dedication and hard work have contributed to our success. Thank you for being a valuable team member.
+
+Best wishes,
+Your [Company Name] Team

@@ -1,0 +1,8 @@
+Hello {employee_name}!
+
+Happy Birthday! 🎉
+
+Wishing you a fantastic day filled with joy and celebration.
+
+Best regards,
+Your [Company Name] Team
