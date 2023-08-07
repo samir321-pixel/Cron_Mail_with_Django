@@ -165,7 +165,7 @@ Your Windows Task Scheduler will now execute your Django management command acco
 
 # Note Setup and Installation
 
-This document provides instructions for setting up and installing the "Note" application. Please follow these steps to ensure a smooth installation process and to configure your email settings in the `settings.py` file.
+This document provides instructions for setting up and installing the application. Please follow these steps to ensure a smooth installation process and to configure your email settings in the `settings.py` file.
 
 ## Prerequisites
 
@@ -189,6 +189,6 @@ Before proceeding with the installation, ensure you have the following prerequis
    ```
 
 
-You've successfully set up and configured the "Note" application. If you encounter any issues during the installation process, please refer to the official documentation or seek assistance from the project's community.
+You've successfully set up and configured the application. If you encounter any issues during the installation process, please refer to the official documentation or seek assistance from the project's community.
 
-Feel free to explore and enjoy the features of the "Note" application!
+Feel free to explore and enjoy the features of the application!
