@@ -161,3 +161,34 @@ In Windows, you can't use the traditional `cron` utility, as it's a UNIX-based u
     To test the task, right-click on it and select "Run." This will manually trigger the task's execution.
 
 Your Windows Task Scheduler will now execute your Django management command according to the schedule you've set. Please note that the steps might vary slightly depending on your version of Windows, but the general process remains the same.
+
+
+# Note Setup and Installation
+
+This document provides instructions for setting up and installing the "Note" application. Please follow these steps to ensure a smooth installation process and to configure your email settings in the `settings.py` file.
+
+## Prerequisites
+
+Before proceeding with the installation, ensure you have the following prerequisites:
+
+- Python (version X.X or higher)
+- Django (version X.X or higher)
+
+## Add Your Email Configuration**:
+   Locate the section for email configuration in `settings.py`. Add your own email settings, including the SMTP server, port, username, and password.
+
+   ```
+   # Email Configuration
+   EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+   EMAIL_HOST = 'your-smtp-server.com'
+   EMAIL_PORT = 587
+   EMAIL_USE_TLS = True
+   EMAIL_USE_SSL = False
+   EMAIL_HOST_USER = 'your-email@example.com'
+   EMAIL_HOST_PASSWORD = 'your-email-password'
+   ```
+
+
+You've successfully set up and configured the "Note" application. If you encounter any issues during the installation process, please refer to the official documentation or seek assistance from the project's community.
+
+Feel free to explore and enjoy the features of the "Note" application!
